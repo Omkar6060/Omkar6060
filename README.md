@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkar6060" alt="omkar6060" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://omkar6060.github.io/PROTFOLIO/](https://omkar6060.github.io/PROTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://omkar6060.github.io/PROTFOLIO/](https://omkar6060.github.io/PROTFOLIO/](https://clinquant-dasik-518c82.netlify.app/))
 
 - 📫 How to reach me **omkarcha6060@gmail.com**
 
